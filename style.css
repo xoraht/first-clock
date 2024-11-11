@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(27, 27, 39);  
+}
+
+h1 {
+    font-family: Brush Script MT;
+    color: white;
+    text-align: center;
+    font-size: 100px;
+}
+
+div {
+    font-family: sans-serif;
+    background-color: rgb(41, 41, 41);
+    border: 1px solid white;
+    color: white;
+    padding: 10px;
+    font-size: 30px;
+    width: 200px;
+    margin: auto;
+    text-align: center;
+}
